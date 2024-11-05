@@ -1,0 +1,11 @@
+{
+  "name": "kw-num-nest",
+  "version": "0.0.1",
+  "description": "opensource 과제1",
+  "main": "main.js",
+  "scripts": {
+    "test": "avg"
+  },
+  "author": "",
+  "license": "ISC"
+}
