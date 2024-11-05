@@ -1,11 +1,17 @@
 {
-  "name": "kw-num-nest",
+  "name": "kw-num-nest-junsang",
   "version": "0.0.1",
   "description": "opensource 과제1",
   "main": "main.js",
   "scripts": {
-    "test": "avg"
+    "test": "jest"
+  },
+  "bin": {
+    "numnest": "./main.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
